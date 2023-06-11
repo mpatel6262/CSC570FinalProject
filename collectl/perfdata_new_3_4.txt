@@ -1,9 +1,3 @@
-defined(@array) is deprecated at /usr/share/collectl/formatit.ph line 3149.
-	(Maybe you should just omit the defined()?)
-waiting for 1 second sample...
-
-### RECORD    1 >>> ip-172-31-24-172 <<< (1684789748.001) (Mon May 22 21:09:08 2023) ###
-
 # SINGLE CPU STATISTICS
 #   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
       0     0    0    7    1    0    0     0   92
