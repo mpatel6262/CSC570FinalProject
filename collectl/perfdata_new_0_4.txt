@@ -1,0 +1,410 @@
+defined(@array) is deprecated at /usr/share/collectl/formatit.ph line 3149.
+	(Maybe you should just omit the defined()?)
+waiting for 1 second sample...
+
+### RECORD    1 >>> ip-172-31-24-172 <<< (1684789132.001) (Mon May 22 20:58:52 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0     0    0    0    4    0    0     1   90
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda          3920      0   52   75       0      0    0    0      75     1     1      1    5
+
+### RECORD    2 >>> ip-172-31-24-172 <<< (1684789133.001) (Mon May 22 20:58:53 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0     3    0    2    1    0    0     2   88
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda           640      0    9   71      64     14    2   32      64     1     1      1    1
+
+### RECORD    3 >>> ip-172-31-24-172 <<< (1684789134.001) (Mon May 22 20:58:54 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0     6    0    1    0    0    0     1   89
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda           140      0   35    4      24      3    3    8       4    26     2      0    0
+
+### RECORD    4 >>> ip-172-31-24-172 <<< (1684789135.001) (Mon May 22 20:58:55 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0     6    0    3    0    0    0     2   89
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD    5 >>> ip-172-31-24-172 <<< (1684789136.001) (Mon May 22 20:58:56 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    26    0    1    0    0    0     1   69
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD    6 >>> ip-172-31-24-172 <<< (1684789137.001) (Mon May 22 20:58:57 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    24    0    1    0    0    1     2   68
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD    7 >>> ip-172-31-24-172 <<< (1684789138.001) (Mon May 22 20:58:58 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    26    0    1    0    0    0     2   67
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             4      0    1    4       0      0    0    0       4     0     0      0    0
+
+### RECORD    8 >>> ip-172-31-24-172 <<< (1684789139.001) (Mon May 22 20:58:59 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    31    0    6    0    0    0     0   61
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     0     0      0    0
+
+### RECORD    9 >>> ip-172-31-24-172 <<< (1684789140.001) (Mon May 22 20:59:00 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    50    0    4    0    0    0     1   42
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   10 >>> ip-172-31-24-172 <<< (1684789141.001) (Mon May 22 20:59:01 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    48    0    2    0    0    0     1   46
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   11 >>> ip-172-31-24-172 <<< (1684789142.001) (Mon May 22 20:59:02 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    71    0    4    0    0    0     1   20
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda            60      0    5   12     108      9   12    9       9     1     0      0    1
+
+### RECORD   12 >>> ip-172-31-24-172 <<< (1684789143.001) (Mon May 22 20:59:03 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    74    0    2    0    0    2     1   20
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   13 >>> ip-172-31-24-172 <<< (1684789144.001) (Mon May 22 20:59:04 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    71    0    3    0    0    1     1   24
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     1     1      1    0
+
+### RECORD   14 >>> ip-172-31-24-172 <<< (1684789145.001) (Mon May 22 20:59:05 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    72    0    2    0    0    1     1   24
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     1     1      1    0
+
+### RECORD   15 >>> ip-172-31-24-172 <<< (1684789146.001) (Mon May 22 20:59:06 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    96    0    4    0    0    0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   16 >>> ip-172-31-24-172 <<< (1684789147.001) (Mon May 22 20:59:07 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    97    0    2    0    0    0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     0     0      0    0
+
+### RECORD   17 >>> ip-172-31-24-172 <<< (1684789148.001) (Mon May 22 20:59:08 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    90    0    2    0    0    5     0    3
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     0     0      0    0
+
+### RECORD   18 >>> ip-172-31-24-172 <<< (1684789149.001) (Mon May 22 20:59:09 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    86    0    7    0    0    0     0    3
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     1     1      1    0
+
+### RECORD   19 >>> ip-172-31-24-172 <<< (1684789150.001) (Mon May 22 20:59:10 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    91    0    8    0    0    0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     1     1      1    0
+
+### RECORD   20 >>> ip-172-31-24-172 <<< (1684789151.001) (Mon May 22 20:59:11 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    94    0    6    0    0    0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   21 >>> ip-172-31-24-172 <<< (1684789152.001) (Mon May 22 20:59:12 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    89    0    8    0    0    1     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      92      7   10    9       9     1     0      0    0
+
+### RECORD   22 >>> ip-172-31-24-172 <<< (1684789153.001) (Mon May 22 20:59:13 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    96    0    3    0    0    1     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     0     0      0    0
+
+### RECORD   23 >>> ip-172-31-24-172 <<< (1684789154.001) (Mon May 22 20:59:14 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    94    0    4    0    0    1     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     0     0      0    0
+
+### RECORD   24 >>> ip-172-31-24-172 <<< (1684789155.001) (Mon May 22 20:59:15 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    95    0    2    0    0    1     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     1     1      1    0
+
+### RECORD   25 >>> ip-172-31-24-172 <<< (1684789156.001) (Mon May 22 20:59:16 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    96    0    4    0    0    0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     0     0      0    0
+
+### RECORD   26 >>> ip-172-31-24-172 <<< (1684789157.001) (Mon May 22 20:59:17 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    94    0    5    0    0    0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0    2844      4   26  109     109     8     3      0    1
+
+### RECORD   27 >>> ip-172-31-24-172 <<< (1684789158.001) (Mon May 22 20:59:18 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    96    0    2    0    0    0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      36      6    3   12      12     1     1      1    0
+
+### RECORD   28 >>> ip-172-31-24-172 <<< (1684789159.001) (Mon May 22 20:59:19 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    92    0    5    0    0    3     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     1     1      1    0
+
+### RECORD   29 >>> ip-172-31-24-172 <<< (1684789160.001) (Mon May 22 20:59:20 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    86    0   14    0    0    0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   30 >>> ip-172-31-24-172 <<< (1684789161.001) (Mon May 22 20:59:21 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    90    0    9    0    0    0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     1     1      1    0
+
+### RECORD   31 >>> ip-172-31-24-172 <<< (1684789162.001) (Mon May 22 20:59:22 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    94    0    4    0    0    0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda            36      0    2   18    1272     11   39   33      31     3     0      0    1
+
+### RECORD   32 >>> ip-172-31-24-172 <<< (1684789163.001) (Mon May 22 20:59:23 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    94    0    6    0    0    0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      52     10    3   17      17     0     0      0    0
+
+### RECORD   33 >>> ip-172-31-24-172 <<< (1684789164.001) (Mon May 22 20:59:24 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    93    0    7    0    0    0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   34 >>> ip-172-31-24-172 <<< (1684789165.001) (Mon May 22 20:59:25 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    97    0    1    0    0    1     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     1     1      1    0
+
+### RECORD   35 >>> ip-172-31-24-172 <<< (1684789166.001) (Mon May 22 20:59:26 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    95    0    4    0    0    0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0      24      3    3    8       8     1     1      1    0
+
+### RECORD   36 >>> ip-172-31-24-172 <<< (1684789167.001) (Mon May 22 20:59:27 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    93    0    7    0    0    0     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0       0      0    0    0       0     0     0      0    0
+
+### RECORD   37 >>> ip-172-31-24-172 <<< (1684789168.001) (Mon May 22 20:59:28 2023) ###
+
+# SINGLE CPU STATISTICS
+#   Cpu  User Nice  Sys Wait IRQ  Soft Steal Idle
+      0    62    0   37    0    0    1     0    0
+
+# DISK STATISTICS (/sec)
+#          <---------reads---------><---------writes---------><--------averages--------> Pct
+#Name       KBytes Merged  IOs Size  KBytes Merged  IOs Size  RWSize  QLen  Wait SvcTim Util
+xvda             0      0    0    0       0      0    0    0       0     0     0      0    0
