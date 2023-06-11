@@ -1,10 +1,3 @@
-httperf
-*** Running httperf 0.9 patched by DK and RSH ***
- --client=0/1 --server=35.93.153.9 --rfile-name=/home/ubuntu/engg_533/responsetimes/rfile_new_5_2.txt --port=80 --uri=/ --period=e0.06 --send-buffer=4096 --recv-buffer=16384 --wsesslog=600,0.000,input.txt
-Maximum connect burst length: 2
-
-Total: connections 600 requests 9867 replies 9525 test-duration 36.091 s
-
 Connection rate: 16.6 conn/s (60.2 ms/conn, <=574 concurrent connections)
 Connection time [ms]: min 82.4 avg 9012.6 max 32916.4 median 7374.5 stddev 6902.7
 Connection time [ms]: connect 0.4
