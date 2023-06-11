@@ -5,7 +5,7 @@ file=$1
 lines=`cat $1 | wc -l`
 count=0
 sum=0
-for ((  num = 9 ;  num <= $lines;  num = num + 11  ))
+for ((  num = 3 ;  num <= $lines;  num = num + 11  ))
 do
 line=`sed -n ${num}p $file`
 idle=`echo $line | cut -d " " -f  9`
