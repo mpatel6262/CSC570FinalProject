@@ -9,20 +9,20 @@ do
   for j in {0..4}
   do
   
-    ssh ubuntu@100.20.48.103 <<EOF
-sudo ~/CSC570/collectlcpu.sh perfdata_new_${i}_${j}.txt &
-sudo ~/CSC570/sar.sh netdata_new_${i}_${j}.txt &
-exit
-EOF
+#    ssh ubuntu@100.20.48.103 <<EOF
+#sudo ~/CSC570/collectlcpu.sh perfdata_new_${i}_${j}.txt &
+#sudo ~/CSC570/sar.sh netdata_new_${i}_${j}.txt &
+#exit
+#EOF
     
     echo "STARTING HTTPERF"
-    httperf --server 100.20.48.103 --port 80 --num-conns ${num_sessions[$i]} --period ${inter_arr_time[$i]} > ~/CSC570/responsetimes/output_new_${i}_${j}.txt
+    httperf --server 'IP HERE' --port 80 --wsess ${num_sessions[$i]},5,2 --period ${inter_arr_time[$i]} > ~/CSC570/responsetimes/output_new_${i}_${j}.txt
     
-    ssh ubuntu@100.20.48.103 <<EOF
-sudo killall collectl
-sudo killall sar
-exit
-EOF
+#    ssh ubuntu@100.20.48.103 <<EOF
+#sudo killall collectl
+#sudo killall sar
+#exit
+#EOF
       
     
 done
