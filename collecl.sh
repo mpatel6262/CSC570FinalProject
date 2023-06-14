@@ -2,7 +2,7 @@
 
 echo "@@@INSIDE SERVER COLLECTL SCRIPT@@@"
 
-sudo collectl -sCD >& ~/collectl/"perfdata.txt"&
+sudo collectl -sCD >& ~/collectl/"$1"&
 
 echo "@@@OUTSIDE SERVER COLLECTL SCRIPT@@@"
 
